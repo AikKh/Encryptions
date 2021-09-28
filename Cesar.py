@@ -1,4 +1,4 @@
-# Cesar encryption algorithm
+# Cesar encryption algorithm. Changes for test new Git tool.
 alpha = 'abcdefghijklmnopqrstuvwxyz'
 key = int(input('Key:'))
 str1 = input()
